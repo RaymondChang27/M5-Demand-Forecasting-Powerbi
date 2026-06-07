@@ -1,0 +1,28 @@
+# Data files (download from Kaggle instead)
+data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Power BI temp files
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
